@@ -31,8 +31,6 @@ int main(void)
     {
         printf("zero");
     }
-
     printf("\n");
-
     return (0);
 }
