@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: Prints the lowercase alphabet excluding the letters 'q' and 'e',
+ * Description: Prints Z lowercase alphabet excluding the letters 'q' and 'e',
  *              followed by a new line.
  *
  * Return: Always 0 (Success)
