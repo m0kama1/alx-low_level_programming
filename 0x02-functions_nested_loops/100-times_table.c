@@ -16,18 +16,18 @@ for (mult = 0; mult <= n; mult++)
 prod = num * mult;
 if (mult != 0)
 {
- _putchar(',');
+_putchar(',');
 _putchar(' ');
 }
 if (prod <= 9 && mult != 0)
 {
 _putchar(' ');
- _putchar(' ');
+_putchar(' ');
 _putchar(' ');
 }
 else if (prod <= 99 && mult != 0)
 {
- _putchar(' ');
+_putchar(' ');
 _putchar(' ');
 }
 if (prod >= 100)
